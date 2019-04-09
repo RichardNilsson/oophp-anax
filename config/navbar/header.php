@@ -72,6 +72,45 @@ return [
             "text" => "Docs",
             "url" => "dokumentation",
             "title" => "Dokumentation av ramverk och liknande.",
+            "submenu" => [
+                "items" => [
+                    [
+                        "text" => "Kmom01",
+                        "url" => "dokumentation/kmom01",
+                        "title" => "Dokumentation för kmom01.",
+                    ],
+                    [
+                        "text" => "Kmom02",
+                        "url" => "dokumentation/kmom02",
+                        "title" => "Dokumentation för kmom02.",
+                    ],
+                    [
+                        "text" => "Kmom03",
+                        "url" => "dokumentation/kmom03",
+                        "title" => "Dokumentation för kmom03.",
+                    ],
+                    [
+                        "text" => "Kmom04",
+                        "url" => "dokumentation/kmom04",
+                        "title" => "Dokumentation för kmom04.",
+                    ],
+                    [
+                        "text" => "Kmom05",
+                        "url" => "dokumentation/kmom05",
+                        "title" => "Dokumentation för kmom05.",
+                    ],
+                    [
+                        "text" => "Kmom06",
+                        "url" => "dokumentation/kmom06",
+                        "title" => "Dokumentation för kmom06.",
+                    ],
+                    [
+                        "text" => "Kmom10",
+                        "url" => "dokumentation/kmom10",
+                        "title" => "Dokumentation för kmom10.",
+                    ],
+                ]
+            ]
         ],
         [
             "text" => "Test &amp; Lek",
