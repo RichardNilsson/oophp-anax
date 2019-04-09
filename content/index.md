@@ -1,5 +1,5 @@
 ---
-title: "Min fina titel"
+title: "Startsida objektorienterad PHP"
 ---
 Min me-sida i kursen oophp
 =========================
