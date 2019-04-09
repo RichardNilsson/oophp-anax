@@ -24,4 +24,4 @@ Detta innehåll är skrivet i markdown och du hittar innehållet i filen `conten
 Denna kursen heter Objektorienterad PHP och namnet beskriver kursens innehåll ganska väl.
 Jag ser fram emot att lära mig mer om PHP och finslipa tidigare kunskaper (man glömmer snabbt).
 
-[FIGURE src=image/php.jpg?w=740&filter=grayscale&f1=colorize,0,30,0,0 caption="En fin bil som demobild, lite oklart hur den är representativ, men ändå..."]
+[FIGURE src=image/php.jpg?w=740&filter=grayscale&f1=colorize,0,30,0,0 caption="En snygg PHP-elefant"]
