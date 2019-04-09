@@ -1,3 +1,6 @@
-#### Footer col 1
+#### Länkar
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [EducationX](https://www.edx.org/)
+- [ShortcutFoo](https://www.shortcutfoo.com/)
