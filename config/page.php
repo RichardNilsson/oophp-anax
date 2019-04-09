@@ -24,6 +24,7 @@ return [
                 //"css/another.min.css",
             ],
             "javascripts" => [
+                // Here we can load more JavaScript
                 "js/responsive-menu.js",
             ],
         ],
@@ -45,7 +46,7 @@ return [
             "template" => "anax/v2/header/site_logo_text",
             "data" => [
                 "homeLink"      => "",
-                "siteLogoText"  => "oophp",
+                "siteLogoText"  => "Objektorienterad PHP",
                 "siteLogoTextIcon" => "image/theme/leaf_40x40.png",
                 "siteLogoTextIconAlt" => "Löv-bild",
             ],
