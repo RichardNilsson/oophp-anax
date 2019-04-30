@@ -35,6 +35,7 @@ class ComposerStaticInite3d118ccf5a3bbf0bf10ae4bcd82aae1
         array (
             'Psr\\SimpleCache\\' => 16,
             'Psr\\Container\\' => 14,
+            'Pene\\' => 5,
         ),
         'M' => 
         array (
@@ -77,6 +78,10 @@ class ComposerStaticInite3d118ccf5a3bbf0bf10ae4bcd82aae1
         'Psr\\Container\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/container/src',
+        ),
+        'Pene\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
         'Michelf\\' => 
         array (
