@@ -71,8 +71,8 @@ $app->router->post("guess/play", function () use ($app) {
         try {
             $res  = $game->makeGuess($guess);
         } catch (GuessException $e) {
-        echo "Got exception: " . get_class($e) . "<hr />";
-            }
+            echo "Got exception: " . get_class($e) . "<hr />";
+        }
 
         if ($guess != $number) {
             $_SESSION["tries"] = $game->tries();
