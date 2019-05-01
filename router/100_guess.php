@@ -19,8 +19,6 @@ $app->router->get("guess/init", function () use ($app) {
     return $app->response->redirect("guess/play");
 });
 
-
-
 /**
  * Play the game - show game status
  */
@@ -46,7 +44,6 @@ $app->router->get("guess/play", function () use ($app) {
 
     $app->page->add("guess/play", $data);
     $app->page->add("guess/debug");
-
 
     return $app->page->render([
         "title" => $title,
